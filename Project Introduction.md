@@ -2,6 +2,7 @@
 
 ## 一、有雾图像的成像模型
 在整个计算机视觉和图形学领域中，有雾图像的形成原理所使用的常用的物理模型——大气散射模型（atmospheric scattering model）。
+
 ![](images/haze_model.png)  
 图片来源：Paper：DehazeNet: An End-to-End System for Single Image Haze Removal
 
