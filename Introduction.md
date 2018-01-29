@@ -75,5 +75,16 @@
 
 [https://arxiv.org/abs/1712.04143](https://arxiv.org/abs/1712.04143)
 
+**CANDY: Conditional Adversarial Networks based Fully End-to-End System for Single Image Haze Removal**  
 
+[https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
+
+
+**Haze removal method for natural restoration of images with sky**
+
+[https://www.sciencedirect.com/science/article/pii/S0925231217314856](https://www.sciencedirect.com/science/article/pii/S0925231217314856)
+
+**Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images**
+
+[https://arxiv.org/abs/1801.06302](https://arxiv.org/abs/1801.06302)
 ## 路漫漫其修远兮，吾将上下而求索 ......
