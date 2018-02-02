@@ -92,4 +92,8 @@
 **Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**
 
 [http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf](http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf)
+
+**C2MSNet: A Novel approach for single image haze removal**
+
+[https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
 ## 路漫漫其修远兮，吾将上下而求索 ......
