@@ -87,4 +87,8 @@
 **Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images**
 
 [https://arxiv.org/abs/1801.06302](https://arxiv.org/abs/1801.06302)
+
+**Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**
+
+[http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf](http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf)
 ## 路漫漫其修远兮，吾将上下而求索 ......
