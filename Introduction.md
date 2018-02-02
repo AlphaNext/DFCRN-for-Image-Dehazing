@@ -82,7 +82,7 @@
 
 **Haze removal method for natural restoration of images with sky**
 
-[https://www.sciencedirect.com/science/article/pii/S0925231217314856](https://www.sciencedirect.com/science/article/pii/S0925231217314856)
+[https://www.sciencedirect.com/science/article/pii/S0925231217314856](https://www.sciencedirect.com/science/article/pii/S0925231217314856)   
 [http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856](http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856)
 
 **Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images**
