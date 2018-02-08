@@ -65,7 +65,8 @@
 
 **Image Dehazing using Bilinear Composition Loss Function**
 
-[https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)
+[https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)  
+[**Here is code:** https://github.com/YangHuiAlice/BIlinear-Network-for-Dehazing](https://github.com/YangHuiAlice/BIlinear-Network-for-Dehazing)
 
 **Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond**
 
