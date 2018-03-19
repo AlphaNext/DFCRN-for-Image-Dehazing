@@ -44,7 +44,9 @@
 
 ![](images/samples.png)
 ### 2）估计 t(x) 的end-to-end网络
-**待更新**
+
+![](images/network_architecture.png)
+
 ### 3）去雾效果评估
 **待更新**
 

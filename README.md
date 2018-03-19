@@ -5,3 +5,13 @@
 ------------------
 ## 注：Introduction.md 中有较为详细的介绍。
 
+
+    @inproceedings{zhao2017deep,
+      title={Deep fully convolutional regression networks for single image haze removal},
+      author={Zhao, Xi and Wang, Keyan and Li, Yunsong and Li, Jiaojiao},
+      booktitle={Visual Communications and Image Processing (VCIP), 2017 IEEE},
+      pages={1--4},
+      year={2017},
+      organization={IEEE}
+    }
+
