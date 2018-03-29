@@ -37,6 +37,7 @@
 
 ![](images/pic3.jpg)
 
+![](images/pic8.jpg)
 
 ------------------
 ## 注：Introduction.md 中有较为详细的介绍。
