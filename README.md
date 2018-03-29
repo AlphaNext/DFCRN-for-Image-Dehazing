@@ -10,7 +10,7 @@
 * ./VCIP2017\_Supplementary\_material\_ZhaoXi\_XDU  :论文补充文件，去雾结果对比
 
 * ./images/ : 插图文件
-*
+
 ### 1. 去雾效果
 
 以下图片大多从Google Images中找的，以及对应的去雾结果。
