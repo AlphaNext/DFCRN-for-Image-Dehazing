@@ -121,6 +121,16 @@
 
 **Dalian University: ICASSP 2018: Robust Haze Removal via Joint Deep Transmission and Scene Propagation**
 
+**WHU-CVRS: Feed-Net: Fully End-to-End Dehazing**
+
+**WHU-CVRS: Single Image Dehazing Using Deep Convolution Neural Networks**
+
+* [Code Link](https://github.com/killsking/DehazingCNN)
+
+**DeepDive: An End-to-End Dehazing Method Using Deep Learning**
+
+* [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097344](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097344)
+
 -------------------------------
 
 ### Atmospheric Light
