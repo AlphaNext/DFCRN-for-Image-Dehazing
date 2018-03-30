@@ -76,6 +76,10 @@
 
 - [https://arxiv.org/abs/1708.00581](https://arxiv.org/abs/1708.00581)
 
+**DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement**
+
+* [https://arxiv.org/pdf/1712.00621v1.pdf](https://arxiv.org/pdf/1712.00621v1.pdf)
+
 **End-to-End United Video Dehazing and Detection**
 
 - [https://arxiv.org/abs/1709.03919](https://arxiv.org/abs/1709.03919)
@@ -137,6 +141,15 @@
 
 * [Project & Code](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)
 
+**Retinex: On the Duality Between Retinex and Image Dehazing**
+
+* [https://arxiv.org/pdf/1712.02754v1.pdf](https://arxiv.org/pdf/1712.02754v1.pdf)
+
+**Learned Perceptual Image Enhancement**
+
+* [https://arxiv.org/pdf/1712.02864v1.pdf](https://arxiv.org/pdf/1712.02864v1.pdf)
+
+
 -------------------------------
 
 ### Atmospheric Light
@@ -176,6 +189,9 @@ The Archive of Many Outdoor Scenes (AMOS) dataset contains 1,128,087,180 images 
 [https://arxiv.org/pdf/1607.06235.pdf](https://arxiv.org/pdf/1607.06235.pdf)  
 * D-HAZY: A DATASET TO EVALUATE QUANTITATIVELY DEHAZING ALGORITHMS   
 [http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/)
+
+* Referenceless Prediction of Perceptual Fog Density and Perceptual Image Defogging   
+[http://live.ece.utexas.edu/research/fog/fade_defade.html](http://live.ece.utexas.edu/research/fog/fade_defade.html)
 
 
 
