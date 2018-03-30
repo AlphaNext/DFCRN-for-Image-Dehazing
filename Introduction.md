@@ -62,59 +62,70 @@
 - [Code Link](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
 
 
-**An All-in-One Network for Dehazing and Beyond**
+**ICCV 2017:  AOD-Net: All-in-One Dehazing Network**
 
-- intro: All-in-One Dehazing Network (AOD-Net)
-- arxiv: [https://arxiv.org/abs/1707.06543](https://arxiv.org/abs/1707.06543)
+- [Paper in: docs.google.com](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxib3lpbGljc3xneDpjMjBjM2E3ZTAxZTM0NDU)
+- [Code Link](https://github.com/Boyiliee/AOD-Net)
+- [arxiv: https://arxiv.org/abs/1707.06543](https://arxiv.org/abs/1707.06543)
+
+**AAAI 2018:  Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**
+
+- [http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf](http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf)
 
 **Joint Transmission Map Estimation and Dehazing using Deep Networks**
 
-[https://arxiv.org/abs/1708.00581](https://arxiv.org/abs/1708.00581)
+- [https://arxiv.org/abs/1708.00581](https://arxiv.org/abs/1708.00581)
 
 **End-to-End United Video Dehazing and Detection**
 
-[https://arxiv.org/abs/1709.03919](https://arxiv.org/abs/1709.03919)
+- [https://arxiv.org/abs/1709.03919](https://arxiv.org/abs/1709.03919)
 
 **Image Dehazing using Bilinear Composition Loss Function**
 
-[https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)  
-[**Here is code:** https://github.com/YangHuiAlice/BIlinear-Network-for-Dehazing](https://github.com/YangHuiAlice/BIlinear-Network-for-Dehazing)
+- [https://arxiv.org/abs/1710.00279](https://arxiv.org/abs/1710.00279)  
+- [Code Link](https://github.com/YangHuiAlice/BIlinear-Network-for-Dehazing)
 
-**Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond**
+**A Cascaded Convolutional Neural Network for Single Image Dehazing**
 
-[https://arxiv.org/abs/1711.06787](https://arxiv.org/abs/1711.06787)
-
-**RESIDE: A Benchmark for Single Image Dehazing**
-
-[https://arxiv.org/abs/1712.04143](https://arxiv.org/abs/1712.04143)
+- [https://arxiv.org/abs/1803.07955](https://arxiv.org/abs/1803.07955)
 
 **CANDY: Conditional Adversarial Networks based Fully End-to-End System for Single Image Haze Removal**  
 
-[https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
-
+- [https://arxiv.org/abs/1801.02892](https://arxiv.org/abs/1801.02892)
 
 **Haze removal method for natural restoration of images with sky**
 
-[https://www.sciencedirect.com/science/article/pii/S0925231217314856](https://www.sciencedirect.com/science/article/pii/S0925231217314856)   
-[http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856](http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856)
+- [https://www.sciencedirect.com/science/article/pii/S0925231217314856](https://www.sciencedirect.com/science/article/pii/S0925231217314856)   
+- [http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856](http://sci-hub.la/https://www.sciencedirect.com/science/article/pii/S0925231217314856)
 
 **Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images**
 
-[https://arxiv.org/abs/1801.06302](https://arxiv.org/abs/1801.06302)
-
-**Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**
-
-[http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf](http://www.umiacs.umd.edu/~xyang35/files/perceptual-image-dehazing.pdf)
+- [https://arxiv.org/abs/1801.06302](https://arxiv.org/abs/1801.06302)
 
 **C2MSNet: A Novel approach for single image haze removal**
 
-[https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
+- [https://arxiv.org/abs/1801.08406](https://arxiv.org/abs/1801.08406)
+
+**Dalian University : Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond**
+
+- [https://arxiv.org/abs/1711.06787](https://arxiv.org/abs/1711.06787)
+
+**Dalian University : Two-Layer Gaussian Process Regression with Example Selection for Image Dehazing**
+
+* [http://sci-hub.la/10.1109/TCSVT.2016.2592328](http://sci-hub.la/10.1109/TCSVT.2016.2592328)
+* [Code Link](https://github.com/dlut-dimt/Two-Layer-GPR-Dehazing)
+
+**Dalian University : Fast Example Searching for Input-adaptive Data-driven Dehazing with Gaussian Process Regression**
+
+* [https://link.springer.com/content/pdf/10.1007/s00371-018-1485-y.pdf](https://link.springer.com/content/pdf/10.1007/s00371-018-1485-y.pdf)
+
+**Dalian University: ICASSP 2018: Robust Haze Removal via Joint Deep Transmission and Scene Propagation**
 
 -------------------------------
 
 ### Atmospheric Light
 
-* **ICCP 2014:** Automatic Recovery of the Atmospheric Light in Hazy Images   
+* **ICCP 2014: Automatic Recovery of the Atmospheric Light in Hazy Images**   
 [http://www.cs.huji.ac.il/~werman/Papers/iiii2013.pdf](http://www.cs.huji.ac.il/~werman/Papers/iiii2013.pdf)   
 [[Project]](http://www.cs.huji.ac.il/~raananf/projects/atm_light/)  [[Code]](http://www.cs.huji.ac.il/~raananf/projects/atm_light/atm_light.rar)   
 
