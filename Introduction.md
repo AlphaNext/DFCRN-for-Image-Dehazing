@@ -101,6 +101,8 @@
 **Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images**
 
 - [https://arxiv.org/abs/1801.06302](https://arxiv.org/abs/1801.06302)
+- [Project home page](https://chaimi2013.github.io/Research/FPC/index.html)
+
 
 **C2MSNet: A Novel approach for single image haze removal**
 
@@ -130,6 +132,10 @@
 **DeepDive: An End-to-End Dehazing Method Using Deep Learning**
 
 * [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097344](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8097344)
+
+**Nighttime Image: Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior**
+
+* [Project & Code](https://chaimi2013.github.io/Research/NighttimeDehazing/index.html)
 
 -------------------------------
 
