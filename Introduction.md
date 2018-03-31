@@ -59,7 +59,7 @@
 
 **CVPR 2018:  Gated Fusion Network for Single Image Dehazing**
 
-* [https://drive.google.com/file/d/1ofroM6fnuPOkU6kOq6boSGENUcz-Xj-l/view](https://drive.google.com/file/d/1ofroM6fnuPOkU6kOq6boSGENUcz-Xj-l/view)
+- [https://drive.google.com/file/d/1ofroM6fnuPOkU6kOq6boSGENUcz-Xj-l/view](https://drive.google.com/file/d/1ofroM6fnuPOkU6kOq6boSGENUcz-Xj-l/view)
 - [Code Link](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)
 
 
