@@ -52,6 +52,10 @@
 
 ## 三、深度学习与去雾方面的最新Paper
 
+**IJCAI 2018: DehazeGAN: When Image Dehazing Meets Differential Programming**
+
+- [DehazeGAN: When Image Dehazing Meets Differential Programming](http://www.vision.ee.ethz.ch/~timofter/publications/NTIRE2018_Dehazing_report_CVPRW-2018.pdf)
+
 **CVPR 2018 workshop: NTIRE 2018 Challenge on Image Dehazing Methods and Results** 
 
 - [NTIRE 2018 Challenge on Image Dehazing Methods and Results](http://www.vision.ee.ethz.ch/~timofter/publications/NTIRE2018_Dehazing_report_CVPRW-2018.pdf)
