@@ -1,19 +1,24 @@
-# DFCRN-for-Image-Dehazing
+# DFCRN-for-Image-Dehazing   
+------
 
-该项目是对自己的一篇会议论文 *[IEEE Visual Communications and Image Processing (VCIP 2017) Conference](http://www.vcip2017.org/home)*,  [**《Deep Fully Convolutional Regression Networks for Single Image Haze Removal》**](http://ieeexplore.ieee.org/document/8305035/) 的简单介绍。后续会更新更加详细的内容，相关代码也会陆续更新。2018/1/22 0:06:24 
+Implementation code of the paper "Deep Fully Convolutional Regression Networks for Single Image Haze Removal."
 
-### 0. 基本文件介绍
-* ./Introduction.md ：**论文的简单介绍**
+[**Poseter Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
 
-* ./VCIP2017\_poster\_A0\_ZhaoXi\_XDU.pdf  :论文相关的海报
+### 1. Prerequisites:
 
-* ./VCIP2017\_Supplementary\_material\_ZhaoXi\_XDU  :论文补充文件，去雾结果对比
+1. [Windows Caffe](https://github.com/microsoft/caffe) or Linux Caffe
+2. MATLAB
 
-* ./images/ : 插图文件
+### 2. Installation
 
-### 1. 去雾效果
+Please install Caffe (Windows or Linux) fisrtly, and the installation for Windows OS is [here.](https://github.com/microsoft/caffe)  
 
-以下图片大多从Google Images中找的，以及对应的去雾结果。
+### 3. Demo using pre-trained model
+
+run the **dfcrn_demo.m** on your matlab
+
+### 4. Dehazing results
 
 ![](images/pic4.jpg)
 
@@ -39,16 +44,17 @@
 
 ![](images/pic7.jpg)
 
-------------------
-## 注：Introduction.md 中有较为详细的介绍。
 
+### 5. Paper link and bibtex
 
-    @inproceedings{zhao2017deep,
-      title={Deep fully convolutional regression networks for single image haze removal},
-      author={Zhao, Xi and Wang, Keyan and Li, Yunsong and Li, Jiaojiao},
-      booktitle={Visual Communications and Image Processing (VCIP), 2017 IEEE},
-      pages={1--4},
-      year={2017},
-      organization={IEEE}
-    }
+* [paper link](http://ieeexplore.ieee.org/document/8305035/)
+* 
+        @inproceedings{zhao2017deep,
+          title={Deep fully convolutional regression networks for single image haze removal},
+          author={Zhao, Xi and Wang, Keyan and Li, Yunsong and Li, Jiaojiao},
+          booktitle={Visual Communications and Image Processing (VCIP), 2017 IEEE},
+          pages={1--4},
+          year={2017},
+          organization={IEEE}
+        }
 
