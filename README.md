@@ -3,7 +3,7 @@
 Implementation code of the paper "Deep Fully Convolutional Regression Networks for Single Image Haze Removal."
 
 * [**Paper link**](http://ieeexplore.ieee.org/document/8305035/)
-, [**Poseter Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
+, **Microsoft OneDrive**: [**Poster Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
 
 ### 1. Prerequisites:
 
