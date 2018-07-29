@@ -6,7 +6,7 @@ close all;  clear; clc;
 img_path = './data/';
 img_name = '00442.png';
 [~, name, ext] = fileparts( img_name ) ;
-%% rgb image
+%% rgb image read and dehazing
 img = imread([img_path img_name]);
 img = im2double(img);
 [h,w,~] = size(img);
@@ -28,11 +28,10 @@ gamma = 1.2;
 figure('Name', 'dehazed result'), imshow([img dehaze]), axis image;
 figure('Name', 'transimission'),  imagesc([t_src t_fine]), colormap jet, axis image;
 
-% save dehazed result
-
-% if exist('results', 'file')
-%     mkdir results;
-% end
+%% save dehazed result
+if exist('results', 'file')
+     mkdir results;
+end
 if strcmp(ext, '.jpg') || strcmp(ext, '.JPG') || strcmp(ext, '.jpeg')
     imwrite(dehaze, strcat('./results/', 'dfcrn_', num2str(gamma),  ...
                              '_', img_name), 'jpg', 'Quality', 100);
