@@ -1,9 +1,9 @@
 # DFCRN-for-Image-Dehazing   
-------
 
 Implementation code of the paper "Deep Fully Convolutional Regression Networks for Single Image Haze Removal."
 
-[**Poseter Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
+[**Paper link**](http://ieeexplore.ieee.org/document/8305035/)
+, [**Poseter Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
 
 ### 1. Prerequisites:
 
@@ -47,7 +47,6 @@ run the **dfcrn_demo.m** on your matlab
 
 ### 5. Paper link and bibtex
 
-* [paper link](http://ieeexplore.ieee.org/document/8305035/)
 * 
         @inproceedings{zhao2017deep,
           title={Deep fully convolutional regression networks for single image haze removal},
