@@ -52,6 +52,11 @@
 
 ## 三、深度学习与去雾方面的最新Paper
 
+**CVPR 2018 workshop: NTIRE 2018 Challenge on Image Dehazing Methods and Results** 
+
+- [NTIRE 2018 Challenge on Image Dehazing Methods and Results](http://www.vision.ee.ethz.ch/~timofter/publications/NTIRE2018_Dehazing_report_CVPRW-2018.pdf)
+
+
 **CVPR 2018:  Densely Connected Pyramid Dehazing Network**
 
 - [https://arxiv.org/pdf/1803.08396.pdf](https://arxiv.org/pdf/1803.08396.pdf)
