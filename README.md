@@ -2,21 +2,21 @@
 
 Implementation code of the paper "Deep Fully Convolutional Regression Networks for Single Image Haze Removal."
 
-[**Paper link**](http://ieeexplore.ieee.org/document/8305035/)
+* [**Paper link**](http://ieeexplore.ieee.org/document/8305035/)
 , [**Poseter Link**](https://1drv.ms/b/s!AsBw8rgL7PtzfmJ0ER48cROAtRo) and [**Supplementary_material Link**](https://1drv.ms/b/s!AsBw8rgL7Ptzfx2fzKtLSkFcR1c)
 
 ### 1. Prerequisites:
 
-1. [Windows Caffe](https://github.com/microsoft/caffe) or Linux Caffe
-2. MATLAB
+* [Windows Caffe](https://github.com/microsoft/caffe) or Linux Caffe
+* MATLAB
 
 ### 2. Installation
 
-Please install Caffe (Windows or Linux) fisrtly, and the installation for Windows OS is [here.](https://github.com/microsoft/caffe)  
+* please install Caffe (Windows or Linux) fisrtly, and the installation for Windows OS is [here.](https://github.com/microsoft/caffe)  
 
 ### 3. Demo using pre-trained model
 
-run the **dfcrn_demo.m** on your matlab
+* download the **DFCRN\_Code** folder and run the **dfcrn_demo.m** on MATLAB.
 
 ### 4. Dehazing results
 
@@ -55,3 +55,6 @@ run the **dfcrn_demo.m** on your matlab
       year={2017},
       organization={IEEE}
     }
+
+
+If you encounter any issue when using our code or model, please let me know. (Email:[xizhao24@yeah.net](https://github.com/AlphaNext))
