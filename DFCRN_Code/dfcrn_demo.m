@@ -21,7 +21,7 @@ model_name = 'dfcrn_iter_75000.caffemodel';
 % for heavy haze level, use larger gamma
 % for light haze level, use 1 or lower value 
 % default gamma value is 1.0
-gamma = 1.2;
+gamma = 1.7;
 % t_src is the original estimated transimission
 % t_fine is the transimission using guided filter based on t_src
 [dehaze, t_src, t_fine] = runcnn(img, model_name, gamma);
