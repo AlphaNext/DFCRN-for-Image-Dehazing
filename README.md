@@ -45,15 +45,13 @@ run the **dfcrn_demo.m** on your matlab
 ![](images/pic7.jpg)
 
 
-### 5. Paper link and bibtex
+### 5. Paper BibTeX
 
-* 
-        @inproceedings{zhao2017deep,
-          title={Deep fully convolutional regression networks for single image haze removal},
-          author={Zhao, Xi and Wang, Keyan and Li, Yunsong and Li, Jiaojiao},
-          booktitle={Visual Communications and Image Processing (VCIP), 2017 IEEE},
-          pages={1--4},
-          year={2017},
-          organization={IEEE}
-        }
-
+    @inproceedings{zhao2017deep,
+      title={Deep fully convolutional regression networks for single image haze removal},
+      author={Zhao, Xi and Wang, Keyan and Li, Yunsong and Li, Jiaojiao},
+      booktitle={Visual Communications and Image Processing (VCIP), 2017 IEEE},
+      pages={1--4},
+      year={2017},
+      organization={IEEE}
+    }
